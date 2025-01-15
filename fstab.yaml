@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p9507-e143052.adobeaemcloud.com/bin/franklin.delivery/DeloitteDigital-Hackathon/aem-edge-getting-started/main"
+    url: "https://author-p9507-e143120.adobeaemcloud.com/bin/franklin.delivery/DeloitteDigital-Hackathon/aem-edge-getting-started/main"
     type: "markup"
     suffix: ".html"
